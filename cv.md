@@ -1,11 +1,14 @@
 # Mishchenko Maxim
 
-Discord: Villeman(@VillemanArm)
-Telegram: @VillemanArm
-E-mail: mishchenko.maxim.1988@gmail.com
-Phone number (Armenia): +374 55 29 83 20
-
 ![avatar](/img/avatar_min.jpg)
+
+Discord: Villeman(@VillemanArm)
+
+Telegram: @VillemanArm
+
+E-mail: mishchenko.maxim.1988@gmail.com
+
+Phone number (Armenia): +374 55 29 83 20
 
 ---
 
