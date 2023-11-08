@@ -1,1 +1,1 @@
-[CV](https://VillemanArm/github.io/rsschool-cv/cv)
+[CV](https://villemanarm.github.io/rsschool-cv/cv)
