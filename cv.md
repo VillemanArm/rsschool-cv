@@ -1,5 +1,6 @@
 # Mishchenko Maxim
 
+Discord: Villeman(@VillemanArm)
 Telegram: @VillemanArm
 E-mail: mishchenko.maxim.1988@gmail.com
 Phone number (Armenia): +374 55 29 83 20
@@ -33,8 +34,9 @@ My technology stack includes:
 
 ### Works
 
-You can check out my work on my website: https://insight-webstudio.ru/
-Or on GitHub: https://github.com/VillemanArm
+You can check out my work on [my website](https://insight-webstudio.ru/).
+
+Or on [GitHub](https://github.com/VillemanArm).
 
 ### Education
 
